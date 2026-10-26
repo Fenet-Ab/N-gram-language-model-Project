@@ -1,5 +1,13 @@
 # NLP Assignment 1 — Amharic n-gram language models
 
+## Group 4 Members
+- Betsinat Amare — UGR/8102/15
+- Biruk Seyoum — UGR/8267/15
+- Dawit Mekonen — UGR/3391/13
+- Fenet Abilu — UGR/5813/15
+- Sumya Ibrahim — UGR/6702/15
+
+
 n-gram language models (n = 1..4) on the GPAC Amharic corpus: corpus analysis, intrinsic and
 extrinsic evaluation, and a next-word suggestion app. The design and the alternatives considered
 are in [`docs/dev_plans/amharic_ngram_language_models.md`](docs/dev_plans/amharic_ngram_language_models.md).
